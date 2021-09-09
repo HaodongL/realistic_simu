@@ -1,0 +1,4 @@
+# ignore these in all folders/subfolders
+**/.DS_Store
+**/.Rhistory
+**/.Rproj.user
